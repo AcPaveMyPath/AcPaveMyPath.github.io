@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "German Cruz",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://AcPaveMyPath.github.io/images/molly.png",
+    "email": "Germancruz2017@gmail.com",
+    "phone": "000-000-0000",
+    "website": "https://AcPaveMyPath.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at Chabot Community College.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "94541",
+      "city": "San Francisco",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "AcPaveMyPath",
+        "url": "http://github.com/AcPaveMyPath"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Germancruz2017",
+        "url": "http://linkedin.com/in/germancruz2017"
       },
       {
         "network": "twitter",
@@ -39,20 +39,24 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Software Engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "C++",
+        "Artificial Intelligence"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cryptocurrency",
       "keywords": [
+        "WAX",
+        "Sustainability"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Smart Phones",
       "keywords": [
+        "Network Capabilities",
+        "Onboarding and setup"
       ]
     }
   ],
